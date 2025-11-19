@@ -62,8 +62,5 @@ is used for this project.
 
 The [documentation](https://github.com/kobradag/docs) is a work-in-progress
 
-## License
-
-pyipad is licensed under the copyfree [ISC License](https://choosealicense.com/licenses/isc/).
 # kobrad
  
