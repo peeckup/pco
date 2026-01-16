@@ -1,6 +1,6 @@
 package appmessage
 
-import "github.com/kobradag/kobrad/domain/consensus/model/externalapi"
+import "github.com/peeckup/pco/domain/consensus/model/externalapi"
 
 // mainnetGenesisHash is the hash of the first block in the block DAG for the
 // main network (genesis block).
